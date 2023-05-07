@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 nltk
-scikitplot
 sklearn
 pytest
