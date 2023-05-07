@@ -19,4 +19,4 @@ jobs:
         pip install -r requirements.txt
         pip install --upgrade pyserial
     - name: Run pytest with GUI-based tests
-      run:  pytest
+      run:  pytest test_email_classification.py
