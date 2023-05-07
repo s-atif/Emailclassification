@@ -1,0 +1,13 @@
+numpy
+pandas
+multiprocessing
+seaborn
+matplotlib
+datetime
+re
+string
+time
+nltk
+scikitplot
+sklearn
+sentence transformer
