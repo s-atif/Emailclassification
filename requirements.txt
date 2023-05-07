@@ -10,5 +10,4 @@ time
 nltk
 scikitplot
 sklearn
-sentence transformer
 pytest
